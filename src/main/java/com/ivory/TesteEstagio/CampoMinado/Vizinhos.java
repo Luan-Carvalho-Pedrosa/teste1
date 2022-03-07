@@ -2,6 +2,8 @@ package com.ivory.TesteEstagio.CampoMinado;
 
 public class Vizinhos {
 
+	//Classe criada para organizar e emcapsular a coordenadas dos vizinhos
+
 
     public  int[][] vizinhoNormal(int l, int c ){
 
