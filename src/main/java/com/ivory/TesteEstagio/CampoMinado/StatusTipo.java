@@ -17,5 +17,9 @@ public enum StatusTipo {
 	StatusTipo(int status) {
 		this.tipo = status;
 	}
+
+	public static Object Aberto(int i) {
+		return null;
+	}
 		
 }
